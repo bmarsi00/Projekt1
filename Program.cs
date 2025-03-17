@@ -12,4 +12,9 @@ namespace Projekt1
             Console.WriteLine("Promjena");
         }
     }
+
+    class NewClass
+    {
+        
+    }
 }
