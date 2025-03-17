@@ -15,7 +15,11 @@ namespace Projekt1
 
     class NewClass
     {
-        void metoda()
+        void metoda2()
+        {
+            
+        }
+        void metoda2()
         {
 
         }
